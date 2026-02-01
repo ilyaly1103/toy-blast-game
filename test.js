@@ -34,7 +34,7 @@ class Cell {
         let check = [];
         this.findCells(this.x, this.y, check, this.color);
 
-        if(check.length >= 2){
+        if(check.length >= 3){
             check.forEach((item, index) => {
                 check[index].div.classList.add("none");
             });
