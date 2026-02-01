@@ -12,4 +12,4 @@
 Цей проєкт не потребує встановлення додаткових залежностей або Node.js.
 
 1. Завантажте репозиторій або склонуйте його:
-   git clone (https://github.com/ilyaly1103/toy-blast-game.git)
+   git clone https://github.com/ilyaly1103/toy-blast-game.git
